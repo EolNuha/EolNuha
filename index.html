@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Portofolio | Eol Nuha</title>
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+  <link rel="shortcut icon" type="image/png" href="static/images/headerimg.png">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="static/styles/styles.css">
+</head>
+
+<body>
+  <div class="form-output" id="sending">
+    <p>Sending <i class="fa fa-spinner fa-spin"></i></p>
+  </div>
+  <button onclick="topFunction()" id="myBtn" title="Go to top" class="topbtn"><span class="fa fa-angle-up"></button>
+  <header>
+    <div class="container">
+      <div class="row">
+        <div class="column">
+          <img src="static/images/headerimg.png" width="500px" class="header-img">
+        </div>
+        <div class="column" style="padding: 100px 5px;">
+          <p class="header-intro">Hello, I am</p>
+          <hr class="devider header-devider">
+          <h1>EOL NUHA</h1>
+          <h2>
+            <a href="" class="typewrite" data-period="2000"
+              data-type='[ "Full Stack Developer", "Hardworking", "Embracing mentorship", "Team Member", "Positive Attitude", "Commited", "Curious", "Adaptability" ]'>
+              <span class="wrap"></span>
+            </a>
+          </h2>
+        </div>
+      </div>
+    </div>
+    <svg id="svg" xmlns="http://www.w3.org/2000/svg" viewBox="-300 -150 950 380" class="wavy">
+      <path d="M-314,267 C105,364 400,100 812,279" fill="none" stroke="white" stroke-width="120"
+        stroke-linecap="round" />
+    </svg>
+  </header>
+  <section>
+    <h3>About Me</h3>
+    <hr class="devider">
+    <p>First of all, let me introduce myself</p>
+    <div class="row">
+      <div class="about-me-column">
+        <h2>
+          Hi, I'm Eol Nuha<br>
+        </h2>
+        <h5>A Full Stack Web Developer</h5>
+        <p>
+          My passion for programming, started about three years ago, it's when i discovered this hole ocean of
+          possibilities, of
+          new intriguing things.<br>I'm a self taught programmer, I learned everything that i know from youtube
+          tutorials and
+          stackoverflow searches. But, the journey isn't over i still need to put my knowledge of programming to real
+          life applications.
+          With your company, i think i can change this world for the better!
+        </p>
+        <a href="static/images/cv.pdf" download="cv">
+          <button class="download-cv-button">Download CV</button>
+        </a>
+        <button class="hire-me-button" onclick="hireMeFunction()">Hire Me</button>
+      </div>
+      <div class="about-me-column" style="text-align: center;">
+        <img src="static/images/profile-picture.png" class="about-me-image">
+      </div>
+
+    </div>
+  </section>
+  <section>
+    <h3>Experiences</h3>
+    <hr class="devider">
+    <p style="margin: 0;">Job Experiences</p>
+    <small style="color: #0099ff;">2020 - Ongoing</small>
+    <div class="experience-box">
+      <div class="row">
+        <div class="job-pic-column" style="text-align: center;">
+          <img src="static/images/pythys.png">
+        </div>
+        <div class="job-dis-column">
+          <h2>
+            Software Developer
+          </h2>
+          <h5 class="text-primary">Pythys Software - Kuwait, Kuwait</h5>
+          <p>
+            • Modified existing software to correct coding errors,  upgrade interfaces and 
+              improve overall performance.<br>
+            • Worked on creating different websites, from e-commerce to live streaming 
+                websites, using Java, Groovy, XML, PostgreSQL, ElasticSearch. <br>
+            • Worked closely with clients to collect requirements and ensure project   
+              quality.
+          </p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="job-pic-column" style="text-align: center;">
+          <img src="static/images/starlabs.png">
+        </div>
+        <div class="job-dis-column">
+          <h2>
+            Python Developer
+          </h2>
+          <h5 class="text-primary">StarLabs Inc. - Pristina, Kosovo</h5>
+          <p>
+            • Completed a four month internship with the python team at StarLabs  
+                where I helped on designing and developing a question and answer 
+                platform for students in Kosovo.<br>
+            • Helped on designing database models and developing the backend with 
+              the latest technologies(Python, Django, PostgreSQL)
+          </p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="job-pic-column" style="text-align: center;">
+          <img src="static/images/upwork.png">
+        </div>
+        <div class="job-dis-column">
+          <h2>
+            Software Developer (Freelance)
+          </h2>
+          <h5>UpWork, PieceX</h5>
+          <p>
+            • Developed a hospital medication management website using 
+                technologies - Python, Django, JavaScript, HTML & CSS and MySQL.<br>
+            • Worked on an e-commerce website for fashion using image recognition to 
+              display recommended clothes to the users. Technologies that were used - 
+              Python, Django, OpenCV, Pillow, JavaScript, HTML & CSS and MySQL.<br>
+            • Sold three of my games on PieceX, “Tower War Game”, “Space Invaders”, 
+                “Dinosaur Game” that I developed using Python, Pygame and Turtle.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <h3>What I Can Do</h3>
+    <hr class="devider">
+    <p>These are my main skills as a developer</p>
+    <div class="row">
+      <div class="contact-me-column">
+
+        <ul class="skills">
+          <li data-bar="1">
+            <h3 style="color:rgba(0, 153, 255, 1)">Python</h3>
+            <p class="detail">3 years - Advanced</p>
+          </li>
+          <li data-bar="2">
+            <h3 style="color:rgba(0, 153, 255, 0.85)">HTML/CSS</h3>
+            <p class="detail">3 years - Advanced</p>
+          </li>
+          <li data-bar="3">
+            <h3 style="color:rgba(0, 153, 255, 0.75)">Javascript/Vue.js</h3>
+            <p class="detail">1.5 years - Intermidiate</p>
+          </li>
+          <li data-bar="4">
+            <h3 style="color:rgba(0, 153, 255, 0.65)">MySQL/MsSQL</h3>
+            <p class="detail">1.2 years - Intermidiate</p>
+          </li>
+          <li data-bar="5">
+            <h3 style="color:rgba(0, 153, 255, 0.55)">React.JS</h3>
+            <p class="detail">0.5 years - Beginner</p>
+          </li>
+          <li data-bar="6">
+            <h3 style="color:#cccccc">Learning</h3>
+            <p class="detail">ALWAYS</p>
+          </li>
+        </ul>
+      </div>
+      <div class="contact-me-column" style="text-align: center;">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="bar-chart"
+          class="iconic iconic-bar-chart bar-chart-size" viewBox="0 0 128 128">
+          <g class="iconic-metadata">
+            <title>Bar Chart</title>
+          </g>
+          <g data-width="2500" data-height="2500" class="iconic-container iconic-lg" display="inline"
+            transform="translate(0 8)">
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="1"
+              class="iconic-bar-chart-bar iconic-bar-chart-bar-6 iconic-property-accent iconic-property-stroke"
+              d="M116 0v102" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar iconic-bar-chart-bar-6 iconic-property-accent iconic-property-stroke"
+              d="M92 0v102" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar iconic-bar-chart-bar-6 iconic-property-accent iconic-property-stroke"
+              d="M68 0v102" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar iconic-bar-chart-bar-6 iconic-property-accent iconic-property-stroke"
+              d="M44 0v102" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar iconic-bar-chart-bar-6 iconic-property-accent iconic-property-stroke"
+              d="M20 0v102" fill="none" />
+
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="1"
+              class="iconic-bar-chart-bar-shadow iconic-bar-chart-bar-5-shadow iconic-property-accent iconic-property-stroke"
+              d="M116 102v0" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar-shadow iconic-bar-chart-bar-4-shadow iconic-property-accent iconic-property-stroke"
+              d="M92 55v47" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar-shadow iconic-bar-chart-bar-3-shadow iconic-property-accent iconic-property-stroke"
+              d="M68 46v56" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar-shadow iconic-bar-chart-bar-2-shadow iconic-property-accent iconic-property-stroke"
+              d="M44 26v76" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar-shadow iconic-bar-chart-bar-1-shadow iconic-property-accent iconic-property-stroke"
+              d="M20 26v76" fill="none" />
+
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="1"
+              class="iconic-bar-chart-bar iconic-bar-chart-bar-6 iconic-bar-chart-bar-5 iconic-property-accent iconic-property-stroke"
+              d="M116 102v0" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar iconic-bar-chart-bar-6 iconic-bar-chart-bar-4 iconic-property-accent iconic-property-stroke"
+              d="M92 55v47" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar iconic-bar-chart-bar-6 iconic-bar-chart-bar-3 iconic-property-accent iconic-property-stroke"
+              d="M68 46v56" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar iconic-bar-chart-bar-6 iconic-bar-chart-bar-2 iconic-property-accent iconic-property-stroke"
+              d="M44 26v76" fill="none" />
+            <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-bar iconic-bar-chart-bar-6 iconic-bar-chart-bar-1 iconic-property-accent iconic-property-stroke"
+              d="M20 26v76" fill="none" />
+
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-11 iconic-property-stroke"
+              d="M1 1h2" fill="none" />
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-tick iconic-bar-chart-tick-major iconic-bar-chart-tick-10 iconic-property-stroke"
+              d="M1 11h4" fill="none" />
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-9 iconic-property-stroke"
+              d="M1 21h2" fill="none" />
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-tick iconic-bar-chart-tick-major iconic-bar-chart-tick-8 iconic-property-stroke"
+              d="M1 31h4" fill="none" />
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-7 iconic-property-stroke"
+              d="M1 41h2" fill="none" />
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-tick iconic-bar-chart-tick-major iconic-bar-chart-tick-6 iconic-property-stroke"
+              d="M1 51h4" fill="none" />
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-5 iconic-property-stroke"
+              d="M1 61h2" fill="none" />
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-tick iconic-bar-chart-tick-major iconic-bar-chart-tick-4 iconic-property-stroke"
+              d="M1 71h4" fill="none" />
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-3 iconic-property-stroke"
+              d="M1 81h2" fill="none" />
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-tick iconic-bar-chart-tick-major iconic-bar-chart-tick-2 iconic-property-stroke"
+              d="M1 91h4" fill="none" />
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-1 iconic-property-stroke"
+              d="M1 101h2" fill="none" />
+            <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              class="iconic-bar-chart-axes iconic-property-stroke" d="M127 111h-126v-110" fill="none" />
+          </g>
+        </svg>
+
+      </div>
+    </div>
+  </section>
+  <section>
+    <h3>My Best Projects</h3>
+    <hr class="devider">
+    <p>These are some of my best projects that i've done recently.</p>
+    <div class="row">
+      <div class="work-column">
+        <a href="http://172.105.66.99" target="_blank">
+          <div class="box-image">
+            <img src="static/images/movie-freaks.png" alt="5 Terre">
+            <div class="box-name">
+              <p>Movie Freaks</p>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="work-column">
+        <a href="http://cybercity-ks.com" target="_blank">
+          <div class="box-image">
+            <img src="static/images/cyber-city.png" alt="5 Terre">
+            <div class="box-name">
+              <p>Cyber City</p>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="work-column">
+        <a href="https://www.piecex.com/source-code/Tower-War-Game-1971" target="_blank">
+          <div class="box-image">
+            <img src="static/images/tower-war-game.png" alt="5 Terre">
+            <div class="box-name">
+              <p>Tower War Game</p>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="work-column">
+        <a href="https://www.piecex.com/source-code/Dinosaur-Game-1983" target="_blank">
+          <div class="box-image">
+            <img src="static/images/dino-game.png" alt="5 Terre">
+            <div class="box-name">
+              <p>Dinosaur Game</p>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="work-column">
+        <a href="https://www.piecex.com/source-code/Website-for-Online-Ordering-1972" target="_blank">
+          <div class="box-image">
+            <img src="static/images/e-commerce.png" alt="5 Terre">
+            <div class="box-name">
+              <p>E-commerce Website</p>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="work-column">
+        <a href="#">
+          <div class="box-image">
+            <img src="static/images/space-invader.png" alt="5 Terre">
+            <div class="box-name">
+              <p>Space Invader</p>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+  <section>
+    <h3>Get In Touch</h3>
+    <hr class="devider">
+    <p>Contact me, with the options below.</p>
+    <div class="row contact-border-right">
+      <div class="col border-right border-primary text-center py-5">
+        <i class="fa fa-phone"></i><h3>+383 49 793 208</h3>
+      </div>
+      <div class="col border-right border-primary text-center py-5">
+        <i class="fa fa-envelope"></i><h3>eol.nuha22@gmail.com</h3>
+      </div>
+      <div class="col text-center py-5">
+        <a href="https://www.linkedin.com/in/eol-nuha-a970b71b7/"><i class="fa fa-linkedin"></i> <h3 class="text-dark">Eol Nuha</h3></a>
+      </div>
+    </div>
+    <div class="row contact-border-bottom">
+      <div class="col border-bottom border-primary text-center py-5">
+        <i class="fa fa-phone"></i><h3>+383 49 793 208</h3>
+      </div>
+      <div class="col border-bottom border-primary text-center py-5">
+        <i class="fa fa-envelope"></i><h3>eol.nuha22@gmail.com</h3>
+      </div>
+      <div class="col text-center py-5">
+        <a href="https://www.linkedin.com/in/eol-nuha-a970b71b7/"><i class="fa fa-linkedin"></i> <h3 class="text-dark">Eol Nuha</h3></a>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <h4>
+      This is my Portofolio, hope you enjoyed it.
+    </h4>
+    <small class="text-secondary">If you have any questions contact me in the options above.</small>
+  </footer>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="static/styles/fadeInScroll.jQuery.js"></script>
+  <script src="static/styles/function.js"></script>
+</body>
+
+</html>
