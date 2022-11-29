@@ -15,11 +15,11 @@ Here are some of the places where you can find me:
 
 <p align="center">
 <a href="https://github.com/EolNuha/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EolNuha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1f6fea&icon_color=3B82F6&text_color=D3D3D3&bg_color=0d1117&hide_border=true" width="450"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EolNuha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1f6fea&icon_color=3B82F6&text_color=D3D3D3&bg_color=0d1117&border_color=30363d" width="450"/>
 </a>
 
 <a href="https://github.com/EolNuha">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=eolnuha&theme=github-dark-blue&hide_border=true" width="380"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=eolnuha&theme=github-dark-blue&border_color=30363d" width="380"/>
 </a>
 </p>
 
@@ -27,5 +27,5 @@ Here are some of the places where you can find me:
 
 <p align="center">
     <a href="https://github.com/EolNuha"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eolnuha&theme=github_dark" width="520" alt="Hubert Formin"/></a>
-<a href="https://github.com/EolNuha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolnuha&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1f6fea&icon_color=3B82F6&text_color=D3D3D3&bg_color=0d1117&hide_border=true" width="320" alt="EolNuha"/></a>
+<a href="https://github.com/EolNuha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolnuha&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1f6fea&icon_color=3B82F6&text_color=D3D3D3&bg_color=0d1117&border_color=30363d" width="320" alt="EolNuha"/></a>
 </p>
