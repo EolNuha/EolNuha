@@ -19,7 +19,7 @@ Here are some of the places where you can find me:
 </a>
 
 <a href="https://github.com/EolNuha">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=eolnuha&theme=github-dark-blue&border_color=30363d" width="380"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=eolnuha&theme=github-dark-blue&border=30363d" width="380"/>
 </a>
 </p>
 
