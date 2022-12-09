@@ -1,8 +1,12 @@
 ## Hi there I'm Eol Nuha, a **Frontend Developer at Gjirafa, Inc.**
 
-I am a great problem solver, an independent introvert, and a tech freak obsessed with the latest devices. Currently I am working as a Frontend Developer at Gjirafa, developing a Video Platform website for Gjirafa and its customers. I am also the CEO and main content writer of **[Eol Nuha Blogs](https://eolnuha.com/blog/)**, where I work part-time and publish programming content and tutorials. 
-I've done a variety of projects where I've put most of them as public repositories in this Github profile (inlcuding the source code to my blog website).
-I am always looking to connect with other fellow Software Engineers, so please don't hesitate to contact me.
+As a Frontend developer at Gjirafa, Inc, I specialize in creating intuitive and user-friendly interfaces for web applications. With a strong background in HTML, CSS, and JavaScript, I am skilled in developing responsive and modern designs that enhance the user experience.
+
+At Gjirafa, I have worked on a variety of projects, including building and maintaining the company's official website and implementing new features to improve its functionality. I am passionate about staying up-to-date with the latest web development technologies and techniques, and am constantly looking for ways to improve my skills and deliver high-quality work.
+
+In my current role, I collaborate closely with the rest of the development team to ensure that our projects are delivered on time and meet the needs of our clients. I am also responsible for troubleshooting any issues that may arise and providing technical support as needed.
+
+Overall, I am a dedicated and experienced Frontend developer who is committed to delivering exceptional results for Gjirafa, Inc and its clients.
 
 Here are some of the places where you can find me:
 
