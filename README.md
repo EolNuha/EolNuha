@@ -10,7 +10,7 @@ Overall, I am a dedicated and experienced Frontend developer who is committed to
 
 Here are some of the places where you can find me:
 
-- **Portfolio**: [https://eolnuha.com](https://eolnuha.com)
+- **Portfolio**: [https://eolnuha.github.io](https://eolnuha.github.io)
 - **LinkedIn**: [https://www.linkedin.com/in/eolnuha/](https://www.linkedin.com/in/eolnuha/)
 - **Twitter**: [https://twitter.com/EolNuhaBlogs](https://twitter.com/EolNuhaBlogs)
 
