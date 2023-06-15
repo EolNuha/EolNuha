@@ -22,14 +22,14 @@ Here are some of the places where you can find me:
 
 
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=eolnuha&theme=github-dark-blue&border=30363d" width="380"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=eolnuha&theme=github-dark-blue&border=30363d" width="100%"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
     <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eolnuha&theme=github_dark" width="520" alt="Hubert Formin"/> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolnuha&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1f6fea&icon_color=3B82F6&text_color=D3D3D3&bg_color=0d1117&border_color=30363d" width="320" alt="EolNuha"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolnuha&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1f6fea&icon_color=3B82F6&text_color=D3D3D3&bg_color=0d1117&border_color=30363d" width="100%" alt="EolNuha"/>
 </p>
 
 ### Sponsor Me:
