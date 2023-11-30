@@ -1,6 +1,6 @@
 ## Hi there, I'm Eol Nuha, a Frontend Developer at Gjirafa, Inc.
 
-As a Frontend developer at Gjirafa, Inc, I specialize in creating intuitive and user-friendly interfaces for web applications. With a strong background in HTML, CSS, and JavaScript, I am skilled in developing responsive and modern designs that enhance the user experience.
+As a Frontend developer at Gjirafa, Inc, I specialize in creating intuitive and user-friendly interfaces for web applications. With a strong background in both Frontend and Backend technologies like Python, JavaScript, Flask, Django, Vue.js, and React.js. This diverse skill set allows me to create responsive and modern designs that elevate the overall user experience.
 
 At Gjirafa, I have worked on a variety of projects, including building and maintaining the company's official website and implementing new features to improve its functionality. I am passionate about staying up-to-date with the latest web development technologies and techniques and am constantly looking for ways to improve my skills and deliver high-quality work.
 
