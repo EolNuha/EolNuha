@@ -1,18 +1,9 @@
-## Hi there, I'm Eol Nuha, a Frontend Developer at Gjirafa, Inc.
-
-As a Frontend developer at Gjirafa, Inc, I specialize in creating intuitive and user-friendly interfaces for web applications. With a strong background in both Frontend and Backend technologies like Python, JavaScript, Flask, Django, Vue.js, and React.js. This diverse skill set allows me to create responsive and modern designs that elevate the overall user experience.
-
-At Gjirafa, I have worked on a variety of projects, including building and maintaining the company's official website and implementing new features to improve its functionality. I am passionate about staying up-to-date with the latest web development technologies and techniques and am constantly looking for ways to improve my skills and deliver high-quality work.
-
-In my current role, I collaborate closely with the rest of the development team to ensure that our projects are delivered on time and meet the needs of our clients. I am also responsible for troubleshooting any issues that may arise and providing technical support as needed.
-
-Overall, I am a dedicated and experienced Frontend developer who is committed to delivering exceptional results for Gjirafa, Inc and its clients.
+## Hi there, I'm Eol Nuha, a Software Engineer at Make.com (Celonis)
 
 Here are some of the places where you can find me:
 
 - **Portfolio**: [https://eolnuha.github.io](https://eolnuha.github.io)
 - **LinkedIn**: [https://www.linkedin.com/in/eolnuha/](https://www.linkedin.com/in/eolnuha/)
-- **Twitter**: [https://twitter.com/EolNuhaBlogs](https://twitter.com/EolNuhaBlogs)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
